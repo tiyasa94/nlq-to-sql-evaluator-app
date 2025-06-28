@@ -56,7 +56,7 @@ Follow these steps to use the **Text-to-SQL Pipeline Evaluator**:
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.ibm.com/tiyasa-mukherjee/Text_to_SQL_Governance/edit/streamlit-app.git
+git clone https://github.com/tiyasa94/nlq-to-sql-evaluator-app.git
 ```
 
 ### 2. Install Dependencies
