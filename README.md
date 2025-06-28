@@ -116,7 +116,3 @@ streamlit run src/main.py
 - Use the displayed insights to refine your Text-to-SQL models.
 - Identify inefficiencies and optimize SQL query generation.
 
-
-### Future Integration with Watsonx.governance
-- The system is being designed to integrate into **Watsonx.governance** for enterprise-scale monitoring and governance.
-
